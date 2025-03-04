@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Gateway of India",
+    "city": "Mumbai",
+    "address": "Apollo Bandar, Colaba, Mumbai",
+    "distance": 50,
+    "price": 120,
+    "maxGroupSize": 15,
+    "desc": "A famous historical monument and a popular tourist destination in Mumbai.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img01.jpg",
+    "featured": true
+  },
+  {
+    "title": "Amer Fort",
+    "city": "Jaipur",
+    "address": "Devisinghpura, Amer, Jaipur",
+    "distance": 15,
+    "price": 80,
+    "maxGroupSize": 10,
+    "desc": "A majestic fort known for its artistic style elements and grand architecture.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img02.jpg",
+    "featured": true
+  },
+  {
+    "title": "Backwaters of Kerala",
+    "city": "Alleppey",
+    "address": "Alleppey, Kerala",
+    "distance": 200,
+    "price": 150,
+    "maxGroupSize": 12,
+    "desc": "Famous for its tranquil backwaters and traditional houseboats.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img03.jpg",
+    "featured": true
+  },
+  {
+    "title": "Golden Temple",
+    "city": "Amritsar",
+    "address": "Golden Temple Road, Amritsar",
+    "distance": 2,
+    "price": 50,
+    "maxGroupSize": 20,
+    "desc": "The holiest Sikh temple, known for its golden dome and serene ambiance.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img04.jpg",
+    "featured": true
+  },
+  {
+    "title": "Mysore Palace",
+    "city": "Mysore",
+    "address": "Sayyaji Rao Road, Mysore",
+    "distance": 100,
+    "price": 70,
+    "maxGroupSize": 25,
+    "desc": "An iconic royal palace in Mysore, known for its grandeur and history.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img05.jpg",
+    "featured": true
+  },
+  {
+    "title": "Charminar",
+    "city": "Hyderabad",
+    "address": "Char Kaman, Ghansi Bazaar, Hyderabad",
+    "distance": 5,
+    "price": 40,
+    "maxGroupSize": 10,
+    "desc": "A landmark mosque with stunning architecture in Hyderabad.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img06.jpg",
+    "featured": true
+  },
+  {
+    "title": "Taj Mahal",
+    "city": "Agra",
+    "address": "Dharmapuri, Forest Colony, Agra",
+    "distance": 200,
+    "price": 250,
+    "maxGroupSize": 30,
+    "desc": "One of the Seven Wonders of the World, known for its breathtaking beauty.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img07.jpg",
+    "featured": true
+  },
+  {
+    "title": "Dal Lake",
+    "city": "Srinagar",
+    "address": "Boulevard Road, Srinagar",
+    "distance": 150,
+    "price": 100,
+    "maxGroupSize": 10,
+    "desc": "A serene lake famous for its shikara rides and houseboats.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img08.jpg",
+    "featured": true
+  },
+  {
+    "title": "Meenakshi Temple",
+    "city": "Madurai",
+    "address": "Madurai Main, Madurai",
+    "distance": 300,
+    "price": 60,
+    "maxGroupSize": 20,
+    "desc": "A historic temple known for its intricate architecture and cultural significance.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img09.jpg",
+    "featured": false
+  },
+  {
+    "title": "Rann of Kutch",
+    "city": "Bhuj",
+    "address": "Rann of Kutch, Gujarat",
+    "distance": 500,
+    "price": 200,
+    "maxGroupSize": 15,
+    "desc": "A vast white desert, especially enchanting during the Rann Utsav.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img10.jpg",
+    "featured": false
+  }
+]
