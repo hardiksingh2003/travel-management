@@ -13,7 +13,7 @@ dotenv.config()
 const app = express()
 const port = process.env.PORT || 8000
 const corsOptions = { 
-   origin: "https://travel-management-dlyk.vercel.app",
+   origin: "true",
    credentials: true
 }
 
@@ -35,11 +35,11 @@ const connect = async() => {
 app.use(express.json())
 app.use(cors(corsOptions))
 app.use(cookieParser())
-app.use("/auth", authRoute)
-app.use("/tours", tourRoute)
-app.use("/users", userRoute)
-app.use("/review", reviewRoute)
-app.use("/booking", bookingRoute)
+app.use("/api/v1/auth", authRoute)
+app.use("/api/v1/tours", tourRoute)
+app.use("api/v1/users", userRoute)
+app.use("api/v1/review", reviewRoute)
+app.use("api/v1/booking", bookingRoute)
 
 app.listen(port, () => {
    connect()
